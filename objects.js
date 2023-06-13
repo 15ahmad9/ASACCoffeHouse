@@ -12,6 +12,7 @@ let britshCat = {
        console.log(` Welcome All to Cats world my name is ${this.catName} & my fav food is : ${this.favFood}`);
    }
 }
+
 // britshCat.catPrice = 900;
 // britshCat["lovePlay"] = false;
 // console.log(britshCat);
@@ -31,7 +32,6 @@ let americanCat = {
         //    console.log("hello everyone   " + britshCat.catName);
         console.log(` Welcome All to Cats world my name is ${this.catName} & my fav food is : ${this.favFood}`);
     }
-
 
 }
 
