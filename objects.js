@@ -38,18 +38,3 @@ let americanCat = {
 console.log(americanCat);
 
 americanCat.greeting();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
